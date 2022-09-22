@@ -25,6 +25,11 @@ a {
 	color: #000;
 }
 
+#img {
+	width: 25%;
+	height: auto;
+}
+
 p:nth-of-type(1) {
 	text-align: justify;
 	margin-top: 2em;
