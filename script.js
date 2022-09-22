@@ -33,9 +33,9 @@ window.onload = () => {
 		hotel3.style.borderBottomColor = 'rgba(0, 0, 0, 0.2)';
 
 		h1.innerHTML = 'Hotéis';
-		hotel1.innerHTML = 'Hotel 1 <br> Endereço: X <br> Próprio para: Cegos e Surdos <br> <br> <button> Reservar </button>';
-		hotel2.innerHTML = 'Hotel 2 <br> Endereço: Y <br> Próprio para: Cegos <br> <br> <button> Reservar </button>';
-		hotel3.innerHTML = 'Hotel 3 <br> Endereço: Z <br> Próprio para: Surdos <br> <br> <button> Reservar </button>';
+		hotel1.innerHTML = 'Hotel 1 <br> Endereço: X <br> Adequado para: Cegos e Surdos <br> <br> <button> Reservar </button>';
+		hotel2.innerHTML = 'Hotel 2 <br> Endereço: Y <br> Adequado para: Cegos <br> <br> <button> Reservar </button>';
+		hotel3.innerHTML = 'Hotel 3 <br> Endereço: Z <br> Adequado para: Surdos <br> <br> <button> Reservar </button>';
 
 
 	});
@@ -46,8 +46,8 @@ window.onload = () => {
 		hotel3.style.borderBottomColor = 'rgba(0, 0, 0, 0.2)';
 
 		h1.innerHTML = 'Universidades';
-		hotel1.innerHTML = 'Universidade 1 <br> Endereço: X <br> Próprio para: Cegos e Surdos <br> <br> <button> Reservar </button>';
-		hotel2.innerHTML = 'Universidade 2 <br> Endereço: Y <br> Próprio para: Surdos <br> <br> <button> Reservar </button>';
-		hotel3.innerHTML = 'Universidade 3 <br> Endereço: Z <br> Próprio para: Cegos <br> <br> <button> Reservar </button>';
+		hotel1.innerHTML = 'Universidade 1 <br> Endereço: X <br> Adequado para: Cegos e Surdos <br> <br> <button> Reservar </button>';
+		hotel2.innerHTML = 'Universidade 2 <br> Endereço: Y <br> Adequado para: Surdos <br> <br> <button> Reservar </button>';
+		hotel3.innerHTML = 'Universidade 3 <br> Endereço: Z <br> Adequado para: Cegos <br> <br> <button> Reservar </button>';
 	});
 }
